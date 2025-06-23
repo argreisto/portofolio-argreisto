@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Argreisto - Portofolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Hai, saya Argreisto 👋</h1>
+      <p>Mahasiswa Universitas Pamulang - Kelas 20TPLP023</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <h2>Tentang Saya</h2>
+      <p>Nama saya Argreisto. Saat ini saya sedang belajar membuat website menggunakan HTML dan CSS. Web ini adalah salah satu latihan saya dalam membangun tampilan sederhana untuk memperkenalkan diri secara online.</p>
+    </section>
+
+    <section class="projects">
+      <h2>Projek Sederhana</h2>
+      <ul>
+        <li>Website Perkenalan Diri</li>
+        <li>Desain antarmuka di Canva</li>
+        <li>Belajar Git & GitHub Dasar</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Argreisto. Dibuat dengan semangat belajar ✨</p>
+    </div>
+  </footer>
+
+</body>
+</html>
